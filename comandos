@@ -1,0 +1,4 @@
+Comando,Descrição
+/mensagensat verificar,"Exibe no chat todas as mensagens cadastradas, numeradas com seus respectivos índices (IDs)."
+/mensagensat adicionar [mensagem],Adiciona uma nova mensagem à lista rotativa. Exemplo: /mensagensat adicionar &ePromoção na loja!
+/mensagensat deletar [número],Remove a mensagem correspondente ao número que aparece no comando /verificar.
